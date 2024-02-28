@@ -30,7 +30,7 @@ public class App2
         //driver.findElement(By.id("gwt-uid-5")).sendKeys("Raveesh");
         Thread.sleep(1000);
         //driver.findElement(By.id("gwt-uid-7")).sendKeys("Kumar");
-        driver.findElement(By.xpath("//*[@id=\"pass\"]")).sendKeys("Raghosingh2001*");
+        driver.findElement(By.xpath("//*[@id=\"pass\"]")).sendKeys("************");
         Thread.sleep(1000);
         //driver.findElement(By.id("gwt-uid-9")).sendKeys("7382387888");
         driver.findElement(By.name("login")).click();
